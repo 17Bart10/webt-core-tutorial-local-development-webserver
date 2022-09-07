@@ -1,7 +1,7 @@
 WEBT | CORE | Tutorial - Local development webserver
 
 ## Overview
-You are tasked with setting up your personal web development environment. (Each company team member). Nothing too fancy for the start – grab an XAMPP or similar setup with Apache (and PHP 7.4) and we are good to go.
+You are tasked with setting up your personal web development environment. (Each company team member). Nothing too fancy for the start – grab an XAMPP or similar setup with Apache (and PHP 8.1) and we are good to go.
 
 ## User Story 1
 *As a Developer I want to have a local development webserver available, so that I can run web apps and websites on my local system. *
